@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465SeanO/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465SeanO/Content/BP_Colorshif_Cube.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/Final Project/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/Final Project/Content/BP_Grabbable_Cube.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/Final Project/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/olear/Documents/Unreal Projects/Final Project/Content/BP_Colorshif_Cube.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/Final Project/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/Custom_Red.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/BP_Grabbable_Cube.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/Fab/Megascans/3D/Wooden_Table_viejdi1/Medium/MI_viejdi1.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/StarterContent/Textures/T_Metal_Steel_Mat.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/Fab/Megascans/3D/Wooden_Table_viejdi1/Medium/T_viejdi1_2K_B.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/Fab/Megascans/3D/Wooden_Table_viejdi1/Medium/T_viejdi1_2K_N.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/Fab/Megascans/3D/Wooden_Table_viejdi1/Medium/T_viejdi1_2K_ORM.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/Fab/Megascans/3D/Wooden_Table_viejdi1/Medium/viejdi1_tier_2.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/VRTemplate/Materials/M_Hands.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/VRTemplate/Blueprints/BP_Handtracker.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/BP_Hand.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/BP_Colorshif_Cube.uasset",
+				"C:/Users/olear/Documents/Unreal Projects/CS465UnrealDemo/Content/Custom_White.uasset",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset"
+			]
+		}
+	]
+}
